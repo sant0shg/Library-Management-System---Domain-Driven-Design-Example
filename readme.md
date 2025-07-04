@@ -4,7 +4,7 @@ A comprehensive example demonstrating Domain-Driven Design (DDD) principles thro
 # Project Purpose
 This project serves as a reference implementation for:
 
-Domain-Driven Design (DDD) architecture patterns
-Complex aggregate relationship modeling
-Balancing domain purity with scalability requirements
-Many-to-many relationship handling in DDD
+- Domain-Driven Design (DDD) architecture patterns
+- Complex aggregate relationship modeling
+- Balancing domain purity with scalability requirements
+- Many-to-many relationship handling in DDD
